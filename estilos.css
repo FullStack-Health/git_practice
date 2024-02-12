@@ -12,4 +12,7 @@ button {
 
 ul {
     color: green;
+    list-style-type: none;
+    padding: 0;
 }
+
